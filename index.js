@@ -1,0 +1,1 @@
+require('./build/root.js');

@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "umd",
+        "target": "es2018",
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outDir": "build/",
+        "sourceMap": true,
+        "noEmitOnError": false
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "build/**/*"
+    ],
+    "compileOnSave": true
+}
